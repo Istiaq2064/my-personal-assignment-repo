@@ -2,7 +2,6 @@
 
 body{
     font-family: "Inter", sans-serif;
-
 }
 
 *{
@@ -65,11 +64,14 @@ background-color: aquamarine;
     color: rgba(16, 1, 18, 0.873);
 }
 
-.portfolio-header-image img{
-    margin-left: 70px;
-    margin-bottom: 100px;
-}
 .div{
     height: 500px; 
 }
-
+ /* about section style */
+ .about-me-container{
+    text-align: center;
+ }
+ .main-content{
+    display: flex;
+    border: 1px solid red;
+ }
